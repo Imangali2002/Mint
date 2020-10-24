@@ -773,6 +773,9 @@
 .contact-info p{
 	float: none;
 }
+.ya-share2{
+	text-align: center;
+}
 @media only screen and (max-width: 500px){
 	.contact-info{
 		margin-top: 30px;
